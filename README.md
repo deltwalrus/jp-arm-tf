@@ -1,6 +1,6 @@
 # GCP ARM-Based Compute Module
 
-This Terraform module creates a Google Compute Engine instance using an ARM-based machine type, defaulting to `c4a-standard-2` (adjust if needed).
+This Terraform module creates a Google Compute Engine instance using an ARM-based machine type, defaulting to `c4a-standard-1` (adjust if needed).
 
 ## Usage
 
